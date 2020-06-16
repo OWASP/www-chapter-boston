@@ -2,7 +2,7 @@
 
 layout: col-sidebar
 title: OWASP Boston
-tags: example-tag
+tags: Boston
 level: 0
 
 region: North America
