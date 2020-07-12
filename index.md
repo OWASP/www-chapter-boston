@@ -16,7 +16,7 @@ altfooter: true
 
 Welcome
 -------
-Welcome to the Boston chapter homepage. See below for a [full list of all chapter board members](leadership.md).
+Welcome to the Boston chapter homepage. See below for a [full list of all Boston board members](leadership.md).
 
 <hr/>
 
