@@ -18,7 +18,7 @@ altfooter: true
 
 Chapter Leadership
 ------------------
-The chapter leadership board is as follows:
+The chapter board is as follows:
 
 <table cellpadding="5" cellspacing="0" border="1">
     <tr><td>Chapter Board Members</td>
