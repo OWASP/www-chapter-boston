@@ -3,7 +3,6 @@
 layout: col-sidebar
 title: OWASP Boston
 tags: boston
-level: 0
 
 region: North America
 altfooter: true
@@ -17,7 +16,7 @@ altfooter: true
 
 Welcome
 -------
-Welcome to the Boston chapter homepage. See below for a [full list of all chapter leadership board](leadership.md).
+Welcome to the Boston chapter homepage. See below for a [full list of all chapter board members](leadership.md).
 
 <hr/>
 
