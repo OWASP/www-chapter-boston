@@ -1,6 +1,7 @@
 ### Leaders
 
-* Recommended email distro to reach all Chapter leaders: [OWASP Boston Leaders](mailto:boston-leaders@owasp.org)
+* Recommended email distro to reach all Chapter Board Members: [OWASP Boston Leaders](mailto:boston-leaders@owasp.org)
+* Individual Chapter Board Member contact:
 * [Jim Weiler](mailto:jim.weiler@owasp.org)
 * [LindaLeigh Aberdale](mailto:lindaleigh.aberdale@owasp.org)
 * [Mark Arnold](mailto:mark.arnold@owasp.org)
