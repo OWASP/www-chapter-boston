@@ -9,5 +9,5 @@
 * [Pedro Marcano](mailto:pedro.marcano@owasp.org)
 * [Mark Schlepphorst](mailto:Mark.Schlepphorst@owasp.org)
 * [Roy Wattanasin](mailto:roy.wattanasin@owasp.org)
-* [Mark Ori Zigindere](mailto:Ori.Zigindere@owasp.org)
+* [Ori Zigindere](mailto:Ori.Zigindere@owasp.org)
 
