@@ -19,4 +19,4 @@ altfooter: true
 
 ## Sponsorship Opportunities with our Chapter ##
 
-The Boston OWASP Chapter can offer your company several sponsorship opportunities. If you are interested in taking advantage of any of these opportunities, please contact us at (boston-leaders(a) owasp.org).
+The Boston OWASP Chapter can offer your company several sponsorship opportunities. If you are interested in sponsoring, please contact us at (boston-leaders(at) owasp.org).
