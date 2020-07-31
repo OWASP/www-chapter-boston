@@ -6,6 +6,9 @@ tags: boston
 
 region: North America
 altfooter: true
+meetup-group: owaspboston
+country: USA
+postal-code: 2139
 
 ---
 <strong>Home Page</strong>
