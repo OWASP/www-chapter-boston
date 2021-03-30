@@ -9,5 +9,5 @@
   * [Roy Wattanasin](mailto:roy.wattanasin@owasp.org)
 
 ### Social Links
-* [Meetup](https://www.meetup.com/owaspboston/
+* [Meetup](https://www.meetup.com/owaspboston/)
 * [Social Link](#)
