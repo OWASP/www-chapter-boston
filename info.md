@@ -10,4 +10,4 @@
 
 ### Social Links
 * [Meetup](https://www.meetup.com/owaspboston/)
-* [Social Link](#)
+* [Twitter](https://twitter.com/owaspboston)
