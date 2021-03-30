@@ -1,5 +1,4 @@
-### Chapter Information
-* Boston
+### Boston Chapter Information
 * [OWASP Boston Board Email](mailto:boston-leaders@owasp.org)
 
 * Individual Board Member contact info:
