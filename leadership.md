@@ -18,19 +18,11 @@ altfooter: true
 
 Chapter Leadership
 ------------------
-
-<table cellpadding="5" cellspacing="0" border="1">
-    <tr>
-        <td>
-            <ul>
-                <li>Mark Arnold</li>
-                <li>Tom Conner</li>
-                <li>Mike Perez</li>
-                <li>Jeremiah Salamon</li>
-                <li>Jim Weiler</li>
-            </ul>
-        </td>
-    </tr>
-</table>
-
+<ul>
+    <li>Mark Arnold</li>
+    <li>Tom Conner</li>
+    <li>Mike Perez</li>
+    <li>Jeremiah Salamon</li>
+    <li>Jim Weiler</li>
+</ul>
 <hr/>
