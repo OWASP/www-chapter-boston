@@ -3,7 +3,7 @@
 layout: col-sidebar
 title: OWASP Boston
 tags: boston
-tab: false
+tabs: false
 region: North America
 altfooter: true
 meetup-group: owaspboston
