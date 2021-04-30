@@ -9,7 +9,7 @@ postal-code: 02116
 url: https://owasp.org/www-chapter-boston
 
 ---
-<strong>Home Page</strong>
+# Home Page
 &nbsp;&nbsp;&nbsp;[Chapter Leadership](leadership.md)
 &nbsp;&nbsp;&nbsp;[Past Events](pastevents.md)
 &nbsp;&nbsp;&nbsp;[Sponsorship](sponsorship.md)
@@ -37,7 +37,7 @@ Call For Speakers is open - if you would like to present a talk on Application S
 ## April 2021 Chapter Meeting: State of botnets
 ### Ilia Bromberg, Sr solutions engineer Akamai Technologies
 
-Time & Place: 13 Feb 2021 · [Meetup](https://www.meetup.com/owaspboston/events/277288723/) · [Zoom](https://zoom.us/j/92823025077?pwd=SlFPRGJ6cHpML0FxT0VHa2xESEZ5UT09)
+Time & Place: 13 Feb 2021 - [Meetup](https://www.meetup.com/owaspboston/events/277288723/) - [Zoom](https://zoom.us/j/92823025077?pwd=SlFPRGJ6cHpML0FxT0VHa2xESEZ5UT09)
 
 * OWASP Boston leadership changes, what's ahead for the chapter
 * AppSec & open source news updates and discussion
