@@ -6,6 +6,7 @@ tags: boston
 region: North America
 meetup-group: owaspboston
 postal-code: 02116
+url: https://owasp.org/www-chapter-boston
 
 ---
 
