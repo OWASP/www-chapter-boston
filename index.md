@@ -22,8 +22,6 @@ Follow chapter news on [Twitter](https://twitter.com/owaspboston) | [Meetup.com]
 
 See below for a [full list of all Boston board members](leadership.md).
 
-<hr/>
-
 ### Upcoming Events
 
 ### Speaking at OWASP Boston Chapter Events
@@ -50,6 +48,6 @@ The state of botnets, from good bots (crawlers) to bad bots (credential stuffing
 
 OWASP Boston Chapter meetings are posted on our MeetUp Page:
 
-Please visit <a href="http://www.meetup.com/OWASPBoston">http://www.meetup.com/OWASPBoston</a> for all chapter event information.
+Please visit our [Meetup](http://www.meetup.com/OWASPBoston">http://www.meetup.com/OWASPBoston) for all chapter event information.
 
-Please follow the OWASP Boston Chapter on <a href="https://twitter.com/OWASPBoston">Twitter</a>/<a href="https://meetup.com/OWASPBoston">MeetUp</a>/ and <a href="https://groups.google.com/a/owasp.org/forum/#!forum/boston-chapter/join">sign up to our mailing list</a> to be notified when the details of the next event are be published. 
+Please follow the OWASP Boston Chapter on [Twitter](https://twitter.com/OWASPBoston) & [Meetup](https://meetup.com/OWASPBoston) and sign up for our [mailing list](https://groups.google.com/a/owasp.org/forum/#!forum/boston-chapter/join) to be notified when the details of the next event are be published. 
