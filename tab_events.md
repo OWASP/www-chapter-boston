@@ -7,7 +7,6 @@ order: 1
 tags: events
 
 ---
-
 ### Upcoming Events
 
 
