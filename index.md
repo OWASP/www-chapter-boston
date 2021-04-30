@@ -6,7 +6,6 @@ tags: boston
 region: North America
 meetup-group: owaspboston
 postal-code: 02116
-url: https://owasp.org/www-chapter-boston
 
 ---
 # Home Page
@@ -34,7 +33,7 @@ Call For Speakers is open - if you would like to present a talk on Application S
 
 ### Next Meeting/Event(s)
 
-## April 2021 Chapter Meeting: State of botnets
+## April 2021 Chapter Meeting State of botnets
 ### Ilia Bromberg, Sr solutions engineer Akamai Technologies
 
 Time & Place: 13 Feb 2021 - [Meetup](https://www.meetup.com/owaspboston/events/277288723/) - [Zoom](https://zoom.us/j/92823025077?pwd=SlFPRGJ6cHpML0FxT0VHa2xESEZ5UT09)
@@ -43,10 +42,10 @@ Time & Place: 13 Feb 2021 - [Meetup](https://www.meetup.com/owaspboston/events/2
 * AppSec & open source news updates and discussion
 * State of Botnets with Ilia Bromberg
 
-Some additional information on Ilia's talk:
+Some additional information on Ilia's talk
 The state of botnets, from good bots (crawlers) to bad bots (credential stuffing) and various shades of bots in between how to detect them, how to act against them – techniques that work and common misconceptions.
 
-OWASP Boston Chapter meetings are posted on our MeetUp Page:
+OWASP Boston Chapter meetings are posted on our MeetUp Page
 
 Please visit our [Meetup](http://www.meetup.com/OWASPBoston">http://www.meetup.com/OWASPBoston) for all chapter event information.
 
