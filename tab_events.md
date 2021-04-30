@@ -3,11 +3,12 @@
 title: Events
 layout: null
 tab: true
-order: 2
+order: 0
 tags: events
 
 ---
 
 ### Upcoming Events
+
 
 ### Past Events
