@@ -8,11 +8,7 @@ meetup-group: owaspboston
 postal-code: 02116
 
 ---
-# Home Page
-&nbsp;&nbsp;&nbsp;[Chapter Leadership](leadership.md)
-&nbsp;&nbsp;&nbsp;[Past Events](pastevents.md)
-&nbsp;&nbsp;&nbsp;[Sponsorship](sponsorship.md)
-&nbsp;&nbsp;&nbsp;[Event Archive](pasteventsarchive.md)
+Home Page [Chapter Leadership](leadership.md) [Past Events](pastevents.md) [Sponsorship](sponsorship.md) [Event Archive](pasteventsarchive.md)
 
 ### Welcome
 
