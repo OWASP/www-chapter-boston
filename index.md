@@ -3,12 +3,12 @@
 layout: col-sidebar
 title: OWASP Boston
 tags: boston
-
+tab: false
 region: North America
 altfooter: true
 meetup-group: owaspboston
 country: USA
-postal-code: 2139
+postal-code: 02116
 
 ---
 <strong>Home Page</strong>
