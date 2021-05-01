@@ -1,14 +1,3 @@
----
-
-layout: col-sidebar
-title: OWASP Boston
-tags: Boston
-level: 0
-
-region: North America
-
-
----
 ## Chapter Sponsor
 
 ![Security Innovation](SIlogostacked.png "Security Innovation")
