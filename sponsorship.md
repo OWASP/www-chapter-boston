@@ -1,15 +1,3 @@
----
-
-layout: col-sidebar
-title: OWASP Boston - Sponsorship Opportunities
-tags: boston
-
-region: North America
-
-altfooter: true
-
----
-
 [Home Page](index.md)
 &nbsp;&nbsp;&nbsp;[Chapter Leadership](leadership.md)
 &nbsp;&nbsp;&nbsp;[Past Events](pastevents.md)
