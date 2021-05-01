@@ -1,15 +1,3 @@
----
-
-layout: col-sidebar
-title: OWASP Boston - Past Events
-tags: boston
-
-region: North America
-
-altfooter: true
-
----
-
 [Home Page](index.md)
 &nbsp;&nbsp;&nbsp;[Chapter Leadership](leadership.md)
 &nbsp;&nbsp;&nbsp;<strong>Past Events</strong>
