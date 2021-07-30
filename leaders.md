@@ -1,5 +1,4 @@
-### Chapter Leaders
-
+### Leaders
   * [Mark Arnold](mailto:mark.arnold@owasp.org)
   * [Tom Conner](mailto:tom.conner@owasp.org)
   * [Mike Perez](mailto:mike.perez@owasp.org)
