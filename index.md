@@ -19,8 +19,6 @@ Home Page [Chapter Leadership](leadership.md) [Past Events](pastevents.md) [Spon
 Welcome to the Boston chapter homepage. 
 Follow chapter news on [Twitter](https://twitter.com/owaspboston) | [Meetup.com](https://meetup.com/OWASPBoston)
 
-See below for a [full list of all Boston board members](leadership.md).
-
 ### Upcoming Events
 
 ### Speaking at OWASP Boston Chapter Events
