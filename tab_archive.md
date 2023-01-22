@@ -3,8 +3,8 @@
 title: archive
 displaytext: Archive
 layout: col-sidebar
-tab: true
-order: 4
+tab: false
+order: 5
 tags: Boston
 altfooter: true
 
