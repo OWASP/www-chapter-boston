@@ -4,7 +4,7 @@ title: PastEvents
 displaytext: Past Events
 layout: col-sidebar
 tab: true
-order: 2
+order: 5
 tags: Boston
 altfooter: true
 
