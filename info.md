@@ -1,6 +1,11 @@
-### Boston Chapter Information
+### Contact
 * [OWASP Boston Leaders Email](mailto:boston-leaders@owasp.org)
 
-### Social Links
+### Follow
+* [Mastodon](https://infosec.exchange/@owaspboston)
 * [Meetup](https://www.meetup.com/owaspboston)
 * [Twitter](https://twitter.com/owaspboston)
+
+### Conference
+* [Boston Application Security Conference (BASC)](https://www.basconf.org)
+
