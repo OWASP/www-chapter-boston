@@ -4,6 +4,7 @@
 ### Follow
 * [Mastodon](https://infosec.exchange/@owaspboston)
 * [Meetup](https://www.meetup.com/owaspboston)
+* [LinkedIn](https://www.linkedin.com/company/owasp-boston/)
 * [Twitter](https://twitter.com/owaspboston)
 
 ### Conference
