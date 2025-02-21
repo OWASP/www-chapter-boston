@@ -11,6 +11,19 @@ altfooter: true
 ---
 Also see [past events on Meetup](https://www.meetup.com/owaspboston/events/past/).
 
+### Sept 2023 Chapter Meeting
+#### The art of keeping secrets - Strategies for next-gen secrets security .  Itzik Alvas
+
+Hybrid Attendance: Join us in person at 5:30pm or online at 6:30pm (link to be provided to attendees).
+
+Join us for discussion, food, appsec news, and an OWASP-related talk.
+
+This month we will welcome Itzik Alvas, CEO & Co-founder at Entro to present to our chapter their talk: The art of keeping secrets - Strategies for next-gen secrets security. Itzik will share with us his experiences and teams research on the complexities of secrets management in modern application development and highlight the risk they pose.
+
+Itzik started his cybersecurity journey 17 years ago when he was selected to join the elite cyber security unit of the IDF (Israel Defense Forces). He was introduced to the cyber security ecosystem there and gained enormous knowledge and experience on a nation-state level. After serving for five years, He moved to the ‘real world’ where he held various positions in the industry, including developer, DevOps, cybersecurity researcher, and CISO of a major healthcare organization, before becoming the Head of Security and SRE at Microsoft.
+
+In 2022, Itzik Co-founded Entro Security where he serves as the CEO.
+
 ### June 2023 Chapter Meeting
 #### The Risks of Hardcoding Secrets in AI-Generated Code . Julie Peterson
 
