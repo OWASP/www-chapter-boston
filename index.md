@@ -12,23 +12,28 @@ country: USA
 postal-code: 02116
 
 ---
-### May 2023 Chapter Meeting
-#### OWASP Kubernetes Top 10 · Andrew Josephides
 
-[RSVP on Meetup](https://www.meetup.com/owaspboston/events/292729353)
+### About OWASP Boston
+OWASP Boston is the Local Boston chapter of the Open Web Application Security Project (OWASP), a nonprofit foundation that works to improve the security of software. Through community-led open-source software projects, hundreds of local chapters worldwide, tens of thousands of members, and leading educational and training conferences, the OWASP Foundation is the source for developers and technologists to secure the web. 
 
-Hybrid Attendance: Join us in person or online (link to be provided).
+OWASP Boston organizes monthly chapter meetings on the 2nd Wednesday of every month from the months May to Dec. The Boston chapter takes a pause from Jan to April to organize New England's biggest App Sec Conference which is Boston Application Security Conference (BASC) in April every year! 
 
-Join us for discussion, food, appsec news, and an OWASP-related talk.
+### BASC 2025 is now on!
 
-For our May meeting, Andrew Josephides, Director of Security Research at KSOC, will give a talk introducing the OWASP Kubernetes Top 10.
+Event date: April 5th, 2025
+Location: Microsoft, Burlington MA
+Website: www.basconf.org
 
-Given the growth and adoption of Kubernetes, a number of projects have been published in the OWASP community to help practitioners assess and secure the security of their containerized infrastructure including the recently released Top Ten for Kubernetes (https://owasp.org/www-project-kubernetes-top-ten/). This OSS project is a community-curated list of the most common Kubernetes risks backed by data collected from organizations varying in maturity and complexity. This session will discuss the project in detail, examples for each of the risks in the list, and how to get involved.
+Another year of OWASP BASC is now on! Call for Papers and Call for Workshops closes on Mar 1st 2025 Midnight! Check out our website for the link to submission!
 
-### Speaking at OWASP Boston Chapter Events
+
+### OWASP Boston Chapter Meetings
+
+Next chapter meeting is in May 2025!
+
+### Speaking at OWASP Boston Chapter Meetings
 
 If you would like to present a talk on Application Security
-at future OWASP Boston Chapter events - please review and agree with the
-[OWASP Speaker Agreement](https://owasp.org/www-policy/legal/speaker-agreement) and send
-the proposed talk title, abstract and speaker bio to the Boston Chapter leaders via e-mail:
-`boston-leaders (at) owasp.org`
+at future OWASP Boston Chapter meeting - please review and agree with the
+[OWASP Speaker Agreement](https://owasp.org/www-policy/legal/speaker-agreement) and submit your talk at [Call For Talks](https://docs.google.com/forms/d/1uSfwHWiGazP_4JJ8tI0ECU23YlWzXINg4ZeDlbPZUuk)
+
