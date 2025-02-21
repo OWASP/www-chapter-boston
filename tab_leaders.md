@@ -14,4 +14,4 @@ tags: Boston
   * [Tom Conner](mailto:tom.conner@owasp.org)
   * [Mike Perez](mailto:mike.perez@owasp.org)
   * [Jeremiah Salamon](mailto:jeremiah.salamon@owasp.org)
-  * [Jim Weiler](mailto:jim.weiler@owasp.org)
+  * [Nivedita Murthy](mailto:nivedita.murthy@owasp.org)
