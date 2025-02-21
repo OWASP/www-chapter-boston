@@ -11,8 +11,17 @@ altfooter: true
 ---
 Also see [past events on Meetup](https://www.meetup.com/owaspboston/events/past/).
 
+### July 2024 Chapter Meetup
+#### Be a Better Robert Oppenheimer . Thomas Gleason
+
+This month we will be welcoming Thomas Gleason as our presenter. Thomas will be giving his presentation Be a Better Robert Oppenheimer.
+
+In the tech world, developers, likened to modern Oppenheimers, innovate quickly but may overlook security. This presentation proposes a unified language for AppSec, balancing development and security priorities. It emphasizes understanding open-source usage, risks in tooling practices, and contextualizing vulnerabilities. Join us to align security with development goals, fostering rapid innovation while ensuring security.
+
+Thomas Gleason is an AppSec enthusiast who enjoys building teams and tools to enhance security. He has hands-on experience with the pros and cons of DevSecOps. Outside of work, he cherishes his Rhode Island home and has a penchant for a well-cooked risotto. His professional expertise and personal interests make him a well-rounded individual in the field.
+
 ### June 2024 Chapter Meetup
-#### Overview of the PROXYLIB Campaign by Lindsay Kaye
+#### Overview of the PROXYLIB Campaign . Lindsay Kaye
 
 This month we will be welcoming Lindsay Kaye as our presenter. Lindsay will be giving her presentation an Overview of the PROXYLIB Campaign.
 
