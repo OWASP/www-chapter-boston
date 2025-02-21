@@ -11,6 +11,15 @@ altfooter: true
 ---
 Also see [past events on Meetup](https://www.meetup.com/owaspboston/events/past/).
 
+### August 2024 Chapter Meetup
+#### CISA RSAA portal . Dick Brooks
+
+This month we will be welcoming Dick Brooks, co-founder and lead software engineer at Business Cyber Guardian.
+
+Dick will describe and demonstrate the CISA RSAA portal that is used by the US Federal Government to collect secure software attestations, SBOM's and other relevant artifacts that government SCRM teams will use during software risk assessments, now required under Executive Order 14028 and OMB M-22-18.
+
+Dick Brooks is a contributor to the CISA ICT_SCRM Task Force responsible for developing the CISA Secure Software Acquisition Buyers Guide this is used by both software producers and federal procurement teams working to approve software products as "Secure by Design". Dick also serves on the CISA Sector Risk Management Agency (SRMA) Coordinating Councils for the Critical Manufacturing (CMSCC) and Healthcare (HSCC) Sectors as a C-SCRM subject matter expert.
+
 ### July 2024 Chapter Meetup
 #### Be a Better Robert Oppenheimer . Thomas Gleason
 
