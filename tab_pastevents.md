@@ -11,6 +11,15 @@ altfooter: true
 ---
 Also see [past events on Meetup](https://www.meetup.com/owaspboston/events/past/).
 
+### September 2024 Chapter Meetup
+#### 2024 Application Threat Report . Daniel Shugrue
+
+This month we will be welcoming Daniel Shugrue, security product marketing from Digital.ai, to our meetup.
+
+Daniel will be speaking to us about the 2024 Application Threat Report, and will illuminate and quantify threats to apps in 2024 by categorizing threats according to the OWASP MASVS, and will end with some advice on specific actions security teams can take to stay a step ahead of threat actors. The advice Daniel will share is based on aggregated and anonymized threat data from some of the largest game makers and financial services, and media companies.
+
+Daniel Shugrue has over 20 years of experience working in security and communications. Prior to working at Digital.ai, Daniel worked in Confidential Computing at Microsoft, IoT Security at CyberX, Web App Firewall security at Akamai, and authentication at RSA. Daniel is a father of 2 boys, enjoys bicycling and playing guitar, and holds a degree in Mandarin Chinese from Washington University in St. Louis and an MBA from Babson College.
+
 ### August 2024 Chapter Meetup
 #### CISA RSAA portal . Dick Brooks
 
