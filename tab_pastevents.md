@@ -11,6 +11,15 @@ altfooter: true
 ---
 Also see [past events on Meetup](https://www.meetup.com/owaspboston/events/past/).
 
+### June 2024 Chapter Meetup
+#### Overview of the PROXYLIB Campaign by Lindsay Kaye
+
+This month we will be welcoming Lindsay Kaye as our presenter. Lindsay will be giving her presentation an Overview of the PROXYLIB Campaign.
+
+In May 2023, we identified a cluster of VPN apps available on the Google Play Store that transformed the user’s device into a proxy node without their knowledge. We’ve dubbed this operation PROXYLIB. Other researchers identified this malicious behavior in a single free VPN application—Oko VPN— which resulted in the app's removal from the Play Store. Based on further analysis of Oko VPN, Satori researchers uncovered 27 additional applications related to PROXYLIB. These apps shared a common native library, written in Golang, that enrolls the device as a proxy node. This talk will provide a high-level overview of the PROXYLIB Android malware and take the listener through the changes we observed in response to defenders’ actions.
+
+Lindsay Kaye is the Vice President of Threat Intelligence at HUMAN Security. Her technical specialty spans the fields of malware analysis and reverse engineering, with a keen interest in dissecting custom cryptographic systems. Lindsay is an internationally-recognized cybersecurity speaker and author. Lindsay holds a BS in Engineering with a Concentration in Computing from Olin College of Engineering and an MBA from Babson College.
+
 ### Dec 2023 Chapter Meetup
 #### OAuth2.0 redirection URIs . Tomasso Innocenti
 
