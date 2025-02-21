@@ -11,6 +11,17 @@ altfooter: true
 ---
 Also see [past events on Meetup](https://www.meetup.com/owaspboston/events/past/).
 
+### Oct 2023 Chapter Meeting
+#### The Dark Side of Open Source Productivity . Matt Brown
+
+Hybrid Attendance: Join us in person at 5:30pm or online at 6:30pm (link to be provided to attendees).
+
+Join us for discussion, food, appsec news, and an OWASP-related talk.
+
+This month Matt Brown from Endor Labs will be joining us to discuss, The Dark Side of Open Source Productivity: There is a dark side to productivity with open source. In modern applications, the majority of code on which an application is built isn’t code written by your team. Modern applications are built on the backs of volunteer communities and open-source software. These volunteers and their software delivery practices all become potential attack vectors. The truth is that most organizations do not factor open-source supply chain attacks into their organization’s threat models today. Security incidents such as the CodeCov bash uploader script, the npm colors, and faker intentionally introduced malicious commits, and the recent PyPi backdoors targeting AWS credentials highlight the impact of supply chain attacks as a scalable attack pattern. To spread awareness on supply chain attacks so that organizations can scalably handle them we propose baking supply chain attacks into existing threat modeling procedures and software development culture so that organizations can champion supply chain management of open source in the places where they are most impactful, at development time. We will present a comprehensive, comprehensible, and technology-agnostic taxonomy of attack vectors, created on the basis of hundreds of real-world incidents and validated by experts in the domain. Following, we will discuss the types of defenses you can put in place to detect and respond to such modern day attacks and how you can work these defenses in based on your program’s maturity.
+
+Matt Brown (https://www.linkedin.com/in/matthewbrown7/) is a Solutions Architect at Endor Labs. In his various roles in AppSec and CloudSec, Matt has had the opportunity to help Enterprises with their DevSecOps strategies, particularly within the Application Security (SCA, SAST, DAST, etc.), Cloud Security (Containers, IaC, CSPM, CNAPP, etc.), and Vulnerability Management domains. With a background in software development, Matt is passionate about helping security teams work with and support their software engineering organizations to take a developer-first approach to secure the SDLC. Matt holds his Master’s in Computer Science and enjoys spending time with his family, woodworking/carpentry, and playing golf.
+
 ### Sept 2023 Chapter Meeting
 #### The art of keeping secrets - Strategies for next-gen secrets security .  Itzik Alvas
 
