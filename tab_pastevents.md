@@ -11,6 +11,23 @@ altfooter: true
 ---
 Also see [past events on Meetup](https://www.meetup.com/owaspboston/events/past/).
 
+### Nov 2023 Chapter Meeting
+#### Hands-On Lessons in IAST by Pranoy De & Tony Quadros
+
+Join us at the OWASP Boston Meetup this month to get a hands-on lesson about IAST from Pranoy De and Tony Quadros. During the session Pranoy and Tony, will answer the questions, what is IAST, and how can it make your developer’s lives easier.
+
+**Attendees must bring their own laptop and be in-person to participate in the hands-on workshop portion of this event
+
+**Attendees must provide their name and email addresses (please place in "Current Role" box) information at time of registration to participate in the hands-on workshop portion of this event.
+
+This session will give you a foundational understanding of IAST (Interactive Application Security Testing), what it is, how it works, and provide you, as a security engineer or software developer, with the knowledge of how it can make your lives easier when it comes to doing security analysis of your applications and code. You will then be able to get hands on experience with IAST, using it to find vulnerabilities in a sample application then be able to go in and actually remediate the findings.
+
+After attending this session, you will understand the fundamentals of IAST (Interactive Application Security Testing) and have actual hands-on experience with the testing methodology.
+
+Tony Quadros based in southern New Hampshire is a 10+ year veteran of the cyber security vendor landscape and specifically focused on the application security side of Cyber Security and software development. Having experience helping numerous enterprises from the largest social media companies in the world to the largest insurance companies with ever improving their application security programs to ensure the software we use every day is as secure as possible. More recently Tony has helped lead and revive OWASP Maine, a OWASP chapter focused on rallying the software development and security community in northern New England with providing great educational talks, networking events, and a safe outlet for sharing new job opportunities for northern New Englanders interested in advancing their software development and security careers.
+
+Pranoy De is a 10+ year veteran of software engineering and application security based in Toronto Canada, getting his start as a DB2 Software Developer for IBM, full stack python developer, and more recently working with enterprises worldwide with ever improving their application security programs with a focus on threat modeling and now runtime application security testing. Pranoy has a deep passion for helping with establishing critical integrations for his customers to ensure all solutions work seamlessly within their application security stack and ensuring seamless workflows for software developers looking to ever improve their DevSecOps and appsec processes.
+
 ### Oct 2023 Chapter Meeting
 #### The Dark Side of Open Source Productivity . Matt Brown
 
