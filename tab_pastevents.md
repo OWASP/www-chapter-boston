@@ -11,8 +11,25 @@ altfooter: true
 ---
 Also see [past events on Meetup](https://www.meetup.com/owaspboston/events/past/).
 
-### Nov 2023 Chapter Meeting
-#### Hands-On Lessons in IAST by Pranoy De & Tony Quadros
+### Dec 2023 Chapter Meetup
+#### OAuth2.0 redirection URIs . Tomasso Innocenti
+
+Please join us for OWASP Boston's December meetup! For those attending in-person, the doors open at 6pm, and those joining us virtually the presentation will start at 6:30pm.
+
+This month we will be welcoming Tommaso Innocenti to talk about his research on OAuth2.0 redirection URIs.
+
+ABOUT THE SPEAKER
+Tommaso is a fourth-year Ph.D. student advised by Engin Kirda, working as a Secure Systems Lab (SecLab) member at Northeastern University. His interests revolve around Privacy and Security, with particular attention to increasing final users' security. His works reflect his passion and tenacity in exploring complex security topics. His most recent work focuses on the security of the OAuth protocol.
+
+ABSTRACT
+OAuth 2.0 requires a complex redirection trail between websites and Identity Providers (IdPs). In particular, the "redirect URI" parameter included in the popular Authorization Grant Code flow governs the callback endpoint to which users are routed, together with their security tokens.
+
+In this talk, I will present recent attack trends in conjunction with the research trends to identify the source of the problem that allowed us to generate our hypothesis.
+
+Based on this observation, I will present novel attack techniques and the experiment that allowed us to verify that the OAuth 2.0 security guidance is under-specified empirically. Finally, I will explain end-to-end attack scenarios that combine our attack techniques with common web application vulnerabilities, ultimately resulting in a complete compromise of the secure delegated access that OAuth 2.0 promises.
+
+### Nov 2023 Chapter Meetup
+#### Hands-On Lessons in IAST . Pranoy De & Tony Quadros
 
 Join us at the OWASP Boston Meetup this month to get a hands-on lesson about IAST from Pranoy De and Tony Quadros. During the session Pranoy and Tony, will answer the questions, what is IAST, and how can it make your developer’s lives easier.
 
