@@ -11,6 +11,19 @@ altfooter: true
 ---
 Also see [past events on Meetup](https://www.meetup.com/owaspboston/events/past/).
 
+### November 2024 Chapter Meetup
+#### OWASP ASVS & Cheat Sheet Series . Jim Manico
+
+This month we will be welcoming Jim Manico, a form OWASP Global Board Member and long time project contributor, to our meetup. Doors open at 6:30pm and the presentation starts at 7pm. Pizza and soda will be provided.
+
+Jim will be presenting as part of our "Learn about OWASP Projects" series on his project team's project, the OWASP ASVS & Cheat Sheet Series . In this session you will learn:
+
+How was the project started?
+About the project and goals
+How can one help, volunteer /sponsor?
+Existing Team
+Jim Manico is the founder of Manicode Security, where he trains software developers on secure coding and security engineering. He is also an investor/advisor for 10Security, Aiya, MergeBase, Nucleus Security, KSOC, and Inspectiv. Jim is a frequent speaker on secure software practices, is a member of the Java Champion community, and is the author of “Iron-Clad Java: Building Secure Web Applications” from Oracle Press. Jim also volunteers for the OWASP foundation as the project lead for the OWASP Application Security Verification Standard and the OWASP Cheatsheet Series. For more information, see [https://www.linkedin.com/in/jmanico](https://www.linkedin.com/in/jmanico).
+
 ### October 2024 Chapter Meetup
 #### Threat modeling fundamentals with Star Wars . Audrey Long
 
