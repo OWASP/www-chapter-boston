@@ -11,6 +11,16 @@ altfooter: true
 ---
 Also see [past events on Meetup](https://www.meetup.com/owaspboston/events/past/).
 
+### October 2024 Chapter Meetup
+#### Threat modeling fundamentals with Star Wars . Audrey Long
+
+This month we will be welcoming Audrey Long, Senior Security Software Engineer at Microsoft, to our meetup. Doors open at 6:30pm and the presentation starts at 7pm. Pizza and soda will be provided.
+
+This talk will walk through threat modeling fundamentals with a fun Star Wars twist! Even what may seem the most impenetrable will always have a secret way in that can be exploited. Be it an error in code, an unaccounted-for perspective, or a convenient airshaft leading to the center of a giant, black, round spacecraft, a developer must be aware of potential weaknesses. Using threat models is like getting the blueprint to the Death Star. They allow you to plan for potential scenarios or ambush attacks from stormtroopers with impossibly bad aim. Understanding the possible risks ensures your entire team will make it back to the Millennium Falcon. In this talk, Audrey Long will walk you through understanding threats in a cloud system and how to protect yourself from the dark side.
+
+Audrey Long is a highly qualified Senior Security Software Engineer at Microsoft, holding a Master of Science degree in Cybersecurity from Johns Hopkins University. Audrey is passionate about building secure solutions with customers and ensuring that security practices and considerations are built into products from the very beginning. Her expertise includes creating secure coding solutions, performing security risk assessments with threat modeling activities, evaluating security in architecture, and implementing security practices at the development level.
+
+
 ### September 2024 Chapter Meetup
 #### 2024 Application Threat Report . Daniel Shugrue
 
