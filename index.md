@@ -14,7 +14,7 @@ postal-code: 02116
 ---
 
 ### About OWASP Boston
-OWASP Boston is the Local Boston chapter of the Open Web Application Security Project (OWASP), a nonprofit foundation that works to improve the security of software. Through community-led open-source software projects, hundreds of local chapters worldwide, tens of thousands of members, and leading educational and training conferences, the OWASP Foundation is the source for developers and technologists to secure the web. 
+OWASP Boston is the Local Boston chapter of the Open Worldwide Application Security Project (OWASP), a nonprofit foundation that works to improve the security of software. Through community-led open-source software projects, hundreds of local chapters worldwide, tens of thousands of members, and leading educational and training conferences, the OWASP Foundation is the source for developers and technologists to secure the web. 
 
 OWASP Boston organizes monthly chapter meetings on the 2nd Wednesday of every month from the months May to Dec. The Boston chapter takes a pause from Jan to April to organize New England's biggest App Sec Conference which is Boston Application Security Conference (BASC) in April every year! 
 
