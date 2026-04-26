@@ -1,0 +1,33 @@
+community:
+  - name: chapter-boston
+    platform: slack
+    url: https://owasp.slack.com/archives/C2R06Q1QU
+    description: Boston chapter. Introduce yourself, chat, ask and answer questions.
+leaders:
+  - name: Tom Conner
+    email: tom.conner@owasp.org
+    github: TomConner
+  - name: Jeremiah Salamon
+    email: jeremiah.salamon@owasp.org
+    github: jersalamon
+  - name: Nivedita Murthy
+    email: nivedita.murthy@owasp.org
+location:
+  country: USA
+  country_code: US
+  region: Massachusetts
+  city: Boston
+  postal_code: '1102'
+  latitude: 39.0040146
+  longitude: -94.432802
+meetup_group: owaspboston
+name: OWASP Boston
+repositories:
+  - name: www-chapter-boston
+    url: https://github.com/OWASP/www-chapter-boston
+    description: OWASP Foundation Web Repository
+tags:
+  - Boston
+  - custom-tag-1
+  - custom-tag-2
+website: https://owasp.org/www-chapter-boston
