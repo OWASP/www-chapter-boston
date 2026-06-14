@@ -20,7 +20,7 @@ OWASP Boston organizes monthly chapter meetings on the 2nd Wednesday of every mo
 
 ### OWASP Boston Chapter Meetings
 
-Next chapter meeting is in June 2026!
+Next chapter meeting is in June 2026 - RSVP at [June Meetup](https://www.meetup.com/owaspboston/events/315103758/)!
 
 ### Speaking at OWASP Boston Chapter Meetings
 
@@ -28,3 +28,15 @@ If you would like to present a talk on Application Security
 at future OWASP Boston Chapter meeting - please review and agree with the
 [OWASP Speaker Agreement](https://owasp.org/www-policy/legal/speaker-agreement) and submit your talk at [Call For Talks](https://docs.google.com/forms/d/1uSfwHWiGazP_4JJ8tI0ECU23YlWzXINg4ZeDlbPZUuk)
 
+### Sponsor an OWASP Boston Chapter Meeting
+
+We are looking for host sponsors as well food sponsors. Sponsors get 5 mins to talk about their organization and logo in the meetup slides which will be sent to all meetup members. 
+
+Food sponsors pay for the cost of pizza and sodas - $350-$400
+
+Reach out to the leaders for more questions
+
+### Community Sponsors
+
+
+[InfosecMap](https://infosecmap.com) is your go-to global directory for cybersecurity events and communities. Discover conferences, CTFs, meetups, and more - all meticulously curated and constantly updated. Whatever you’re looking for, including Call for Papers, Trainers, Sponsors, or Volunteers, our powerful search tools make it easy. Best of all, it’s completely free!
