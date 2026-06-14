@@ -20,6 +20,8 @@ OWASP Boston organizes monthly chapter meetings on the 2nd Wednesday of every mo
 
 ### OWASP Boston Chapter Meetings
 
+Follow all chapter meetings on our meetup page - [OWASP Boston Chapter Meetup](https://www.meetup.com/owaspboston/)
+
 Next chapter meeting is in June 2026 - RSVP at [June Meetup](https://www.meetup.com/owaspboston/events/315103758/)!
 
 ### Speaking at OWASP Boston Chapter Meetings
