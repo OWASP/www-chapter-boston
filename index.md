@@ -39,6 +39,6 @@ Food sponsors pay for the cost of pizza and sodas - $350-$400
 Reach out to the leaders for more questions
 
 ### Community Sponsors
-
+(assets/images/InfoSecMap-logo.png)
 
 [InfosecMap](https://infosecmap.com) is your go-to global directory for cybersecurity events and communities. Discover conferences, CTFs, meetups, and more - all meticulously curated and constantly updated. Whatever you’re looking for, including Call for Papers, Trainers, Sponsors, or Volunteers, our powerful search tools make it easy. Best of all, it’s completely free!
